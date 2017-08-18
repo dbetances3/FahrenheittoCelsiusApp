@@ -1,6 +1,6 @@
 ﻿' Program:      Fahrenheit to Celsius Conversion App
 ' Developer:    Diana Betances
-' Date:         December 8, 2015
+' Date:         August 18, 2017
 ' Purpose:      This Windows Store app opens with a splash screen and allows a user
 '               to convert a Fahrenheit temperature to a Celsius temperature.
 
